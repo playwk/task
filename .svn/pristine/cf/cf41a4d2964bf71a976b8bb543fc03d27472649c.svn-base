@@ -1,0 +1,55 @@
+2016-07-15 00:09:40,834 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 00:10:35,840 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 00:15:52,256 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 00:25:07,768 - ftp_logger - INFO - admin - 登录失败，密码错误！
+2016-07-15 00:26:49,791 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 00:29:00,815 - ftp_logger - INFO - admin - 登录失败，密码错误！
+2016-07-15 00:31:37,303 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 00:32:11,703 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 00:32:43,536 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 00:33:01,992 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 00:33:31,616 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 00:34:01,743 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 00:36:30,032 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 00:36:46,103 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 00:40:33,441 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 00:42:45,244 - ftp_logger - INFO - admin - 登录失败，密码错误！
+2016-07-15 00:44:03,517 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 00:45:00,544 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 00:45:36,553 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 00:50:14,780 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 00:58:47,802 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 01:00:14,943 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 01:01:44,396 - ftp_logger - INFO - admin - put admin/test.zip
+2016-07-15 01:02:09,901 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 01:02:17,876 - ftp_logger - INFO - admin - put admin/test.zip
+2016-07-15 01:08:00,614 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 01:09:17,945 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 01:10:24,828 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 01:10:48,927 - ftp_logger - INFO - admin - put admin/test.zip
+2016-07-15 01:12:03,910 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 01:12:16,001 - ftp_logger - INFO - admin - put admin/test.zip
+2016-07-15 01:12:51,996 - ftp_logger - INFO - admin - put admin/test.zip
+2016-07-15 01:13:18,676 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 01:13:31,336 - ftp_logger - INFO - admin - put admin/test.zip
+2016-07-15 01:13:54,306 - ftp_logger - INFO - admin - put admin/test.zip
+2016-07-15 01:24:28,902 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 01:25:11,861 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 01:25:31,377 - ftp_logger - INFO - admin - put admin/test.zip
+2016-07-15 01:26:11,005 - ftp_logger - INFO - admin - ls admin/
+2016-07-15 01:27:58,214 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 01:31:27,835 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 01:31:49,677 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 01:32:19,560 - ftp_logger - INFO - admin - get admin/test.zip
+2016-07-15 01:36:54,950 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 01:37:24,400 - ftp_logger - INFO - admin - put admin/test.zip
+2016-07-15 01:37:49,787 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 01:39:13,040 - ftp_logger - INFO - admin - get admin/test.zip
+2016-07-15 01:40:13,354 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 01:40:28,460 - ftp_logger - INFO - admin - 登录成功！
+2016-07-15 01:40:52,736 - ftp_logger - INFO - admin - get admin/test.zip
+2016-07-15 01:43:52,333 - ftp_logger - INFO -  - 注册成功！
+2016-07-16 11:14:27,999 - ftp_logger - INFO - admin - 登录成功！
+2016-07-16 11:14:29,989 - ftp_logger - INFO - admin - ls admin/
+2016-07-16 11:14:47,656 - ftp_logger - INFO - admin - cd admin
+2016-07-16 11:14:51,958 - ftp_logger - INFO - admin - ls admin/
